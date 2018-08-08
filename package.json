@@ -2,7 +2,7 @@
   "name": "certificate-generater",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/anushil05/certificate-generator/tree/master",
+  "homepage": "https://github.com/anushil05/anushil05.github.io",
   "dependencies": {
     "firebase": "^5.3.0",
     "gh-pages": "^1.2.0",
